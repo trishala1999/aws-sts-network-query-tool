@@ -30,5 +30,5 @@ setup(
         ]
     },
      license='MIT',
-     url='https://github.com/aws-samples/aws-sts-network-query-tool'
+     url='https://github.com/trishala1999/aws-sts-network-query-tool'
     )
